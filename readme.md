@@ -1,4 +1,3 @@
-
 ---
 title: "Barometer und Temperatur Sensor"
 date: "2018-10-01T12:52:13.000Z"
