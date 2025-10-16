@@ -31,8 +31,6 @@ Das Modul wird beispielsweise in einer Messstation für Umweltdaten, wie Feinsta
 Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwendigen Programmbibliotheken sind auf dem offiziellen Wiki (bisher nur in englischer Sprache) von Seeed Studio zusammengefasst. Zusätzlich findet man über alle gängigen Suchmaschinen durch die Eingabe der genauen Komponentenbezeichnung entsprechende Projektbeispiele und Tutorials.
 
 <!-- infolist -->
-
-<!-- infolists -->
 ## Wichtige Links für die ersten Schritte:
 
 - [Seeed Studio Wiki – Barometer Sensor (BMP280)](http://wiki.seeedstudio.com/Grove-Barometer_Sensor-BMP280/)
